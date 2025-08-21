@@ -132,7 +132,7 @@ section .hero-text2{
     position: relative;
     top: -20%;
     right: 5%;
-    color: wheat;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -143,3 +143,4 @@ section .hero-text2{
 .arrow i{
     font-size: 100px;
 }
+
